@@ -98,6 +98,7 @@
 
   <h4>CI/CD</h4>
   <p>
+    <img alt="Terraforn" src="https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform" />
     <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=githubactions" />
   </p>
 
