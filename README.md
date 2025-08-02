@@ -19,6 +19,20 @@
 
   <h2>Tech Stack 💻</h2>
 
+  <h4>Optimization & AI (Python)</h4>
+  <p>
+    <img alt="Custom Simplex" src="https://img.shields.io/badge/-Custom%20Simplex-000?style=for-the-badge" />
+    <img alt="SymPy" src="https://img.shields.io/badge/-SymPy-000?style=for-the-badge&logo=sympy" />
+    <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy" />
+    <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-000?style=for-the-badge&logo=scikit-learn" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow" />
+    <img alt="Pyomo" src="https://img.shields.io/badge/-Pyomo-000?style=for-the-badge" />
+    <img alt="PuLP" src="https://img.shields.io/badge/-PuLP-000?style=for-the-badge" />
+    <img alt="Gurobi" src="https://img.shields.io/badge/-Gurobi-000?style=for-the-badge" />
+    <img alt="CPLEX" src="https://img.shields.io/badge/-CPLEX-000?style=for-the-badge" />
+  </p>
+
   <h4>Languages</h4>
   <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript" />
@@ -60,6 +74,20 @@
     <img alt="Node.js" src="https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink" />
     <img alt="Express.js" src="https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express" />
     <img alt="API" src="https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi" />
+  </p>
+
+  <h4>AWS / Cloud Infrastructure</h4>
+  <p>
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img alt="EC2" src="https://img.shields.io/badge/-EC2-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="S3" src="https://img.shields.io/badge/-S3-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="Lambda" src="https://img.shields.io/badge/-Lambda-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="CloudFormation" src="https://img.shields.io/badge/-CloudFormation-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="EKS" src="https://img.shields.io/badge/-EKS-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="RDS" src="https://img.shields.io/badge/-RDS-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="IAM" src="https://img.shields.io/badge/-IAM-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="CloudWatch" src="https://img.shields.io/badge/-CloudWatch-232F3E?style=for-the-badge&logo=amazonaws" />
+    <img alt="CodePipeline" src="https://img.shields.io/badge/-CodePipeline-232F3E?style=for-the-badge&logo=amazonaws" />
   </p>
 
   <h4>Web Hosting</h4>
