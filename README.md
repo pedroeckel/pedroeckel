@@ -21,14 +21,14 @@
 
   <h4>Optimization & AI (Python)</h4>
   <p>
-    <img alt="Custom Simplex" src="https://img.shields.io/badge/-Custom%20Simplex-000?style=for-the-badge" />
+    <img alt="Metaheuristics" src="https://img.shields.io/badge/-Custom%20Simplex-000?style=for-the-badge" />
     <img alt="SymPy" src="https://img.shields.io/badge/-SymPy-000?style=for-the-badge&logo=sympy" />
     <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy" />
     <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-000?style=for-the-badge&logo=scikit-learn" />
     <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch" />
     <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=tensorflow" />
     <img alt="Pyomo" src="https://img.shields.io/badge/-Pyomo-000?style=for-the-badge" />
-    <img alt="PuLP" src="https://img.shields.io/badge/-PuLP-000?style=for-the-badge" />
+    <img alt="HiGHS" src="https://img.shields.io/badge/-HiGHS-000?style=for-the-badge" />
     <img alt="Gurobi" src="https://img.shields.io/badge/-Gurobi-000?style=for-the-badge" />
     <img alt="CPLEX" src="https://img.shields.io/badge/-CPLEX-000?style=for-the-badge" />
   </p>
@@ -46,8 +46,7 @@
     <img alt="Next.js" src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js" />
     <img alt="React" src="https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react" />
     <img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-000?style=for-the-badge&logo=leaflet" />
-    <img alt="Angular" src="https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular" />
-    <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-000?style=for-the-badge&logo=svelte&logoColor=orange" />
+    <img alt="Vite" src="https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite" />
   </p>
 
   <h4>CSS / UI</h4>
